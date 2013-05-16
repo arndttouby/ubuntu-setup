@@ -1,4 +1,4 @@
-#!/usr/bin/env zsh
+#!/usr/bin/env bash 
 CLEAR="\033[0m"
 ORANGE="\033[33m"
 
