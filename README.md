@@ -22,7 +22,7 @@ Install
 
 Read, then run the script:
 
-    bash <(wget -qO- https://raw.github.com/arndttouby/ubuntu-setup/master/linux)
+   wget -O- https://raw.github.com/arndttouby/ubuntu-setup/master/linux | bash
 
 What it sets up
 ---------------
