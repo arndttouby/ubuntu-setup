@@ -28,6 +28,8 @@ fancy_echo "Updating system packages ..."
     fancy_echo "Installing aptitude ..."
     successfully sudo apt-get install -y aptitude
   fi
+
+fancy_echo "updating the system..."  
   successfully sudo aptitude update
   successfully sudo aptitude -y full-upgrade
 
