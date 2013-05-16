@@ -47,8 +47,8 @@ fancy_echo "Installing The Silver Searcher (better than ack or grep) to search t
   successfully rm -rf /tmp/the_silver_searcher
 
 fancy_echo "Installing rvm..."
-  successfuly curl -L https://get.rvm.io | bash -s stable --rails
-  successfuly source ~/.rvm/scripts/rvm
+  successfully curl -L https://get.rvm.io | bash -s stable --rails
+  successfully source ~/.rvm/scripts/rvm
 
 fancy_echo "Updating to latest Rubygems version ..."
   successfully gem update --system
