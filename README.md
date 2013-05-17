@@ -1,7 +1,7 @@
-Laptop
+Ubuntu-Setup
 ======
 
-Laptop is a script to set up a Linux laptop for Rails development.
+Ubuntu-Setup is a script to set up a Linux laptop for Rails development.
 
 Requirements
 ------------
